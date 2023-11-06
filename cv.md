@@ -36,3 +36,10 @@ function findOutlier(integers) {
   return evens.length > odds.length ? odds[0] : evens[0];
 }
 ```
+
+## Experience
+
+Here are some examples of my work:
+- [Library](https://koshman-dmitri.github.io/RSS_stage0/library/)
+- [Image gallery](https://koshman-dmitri.github.io/RSS_stage0/image-gallery/)
+- [Audio player](https://koshman-dmitri.github.io/RSS_stage0/audio-player/)
