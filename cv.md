@@ -55,4 +55,8 @@ Here are some examples of my work:
     - [JavaScript](https://learn.javascript.ru/ "learn.javascript.ru")
     - [React](https://react.dev/ "react.dev")
     - [RS School](https://rs.school/js-stage0/ "RS School stage 0")
-    
+
+## Languages
+
+* Russian - Native
+* English - Intermediate (B1)
