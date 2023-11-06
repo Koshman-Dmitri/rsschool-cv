@@ -43,3 +43,16 @@ Here are some examples of my work:
 - [Library](https://koshman-dmitri.github.io/RSS_stage0/library/)
 - [Image gallery](https://koshman-dmitri.github.io/RSS_stage0/image-gallery/)
 - [Audio player](https://koshman-dmitri.github.io/RSS_stage0/audio-player/)
+
+## Education
+
+* **Belarusian-Russian University**
+    - Automatic Electric Drivers
+* **Belarusian National Technical University**
+    - Technical operation of thermal power plants and heat supply systems
+* **Internet**
+    - [HTML/CSS](https://developer.mozilla.org/en-US/docs/Web "MDN")
+    - [JavaScript](https://learn.javascript.ru/ "learn.javascript.ru")
+    - [React](https://react.dev/ "react.dev")
+    - [RS School](https://rs.school/js-stage0/ "RS School stage 0")
+    
